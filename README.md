@@ -4,7 +4,7 @@ Code and extracted features for a study of emotion recognition from drawing dyna
 
 The broader **Draw My Life** project explores how drawing and storytelling with a social robot can support children's self-disclosure. This repository covers an **exploratory study with adults**, investigating two questions:
 
-1. Can features of the drawing process and final drawing predict the assigned emotion condition?
+1. Can drawing dynamic features predict the assigned emotion condition?
 2. Which features contribute most to that prediction?
 
 The repository includes the study application, feature extraction, an aggregated dataset, and the analysis notebooks.
